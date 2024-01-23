@@ -7,7 +7,7 @@ The users can collaborate in real time while the issues related to overlapping e
 
 # Etherpad: A real-time collaborative editor for the web
 
-![Demo Etherpad Animated Jif](doc/images/etherpad_demo.gif "Etherpad in action")
+![Demo Etherpad Animated Jif](etherpad_demo.gif "Etherpad in action")
 
 The frontend is built using [React](https://react.dev/) and [Quill.js](https://quilljs.com/) - a rich text editor library. The real-time behaviour is handled using [Socket.io](https://socket.io/) library at the backend, ensuring smooth synchronization.
 
