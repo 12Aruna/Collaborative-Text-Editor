@@ -2,6 +2,7 @@ CollabText - A Real-Time Collaborative Text Editor
 This is a real-time text editor with support for conflict resolution in case of concurrent edits making it literally "collaborative". The users can collaborate in real time while the issues related to overlapping edits are handled by the application. The changes made to the documents are persisted on reload.
 
 Alt text
+image.png
 
 The frontend is built using React and Quill.js - a rich text editor library. The real-time behaviour is handled using Socket.io library at the backend, ensuring smooth synchronization.
 
